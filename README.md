@@ -1,6 +1,11 @@
 # AI简历优化助手
 基于Streamlit + DeepSeek大模型API开发的简历分析Web工具
 
+✅ **在线直接体验👉：https://ai-resume-assistant-fhyvvfks8bushrxh384yah.streamlit.app**
+
+> 提示：打开链接即可使用，无需下载代码。
+> ⚠️不要上传身份证、手机号等敏感个人信息。
+
 ## ✨功能
 1. 支持上传PDF简历、粘贴简历文本
 2. 调用大模型提取简历结构化信息
